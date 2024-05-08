@@ -28,6 +28,7 @@
     &nbsp;&nbsp;&nbsp;<img src="./icons/ProgrammingLanguages/c.svg" height="20px">
     &nbsp;&nbsp;&nbsp;<img src="./icons/ProgrammingLanguages/cpp.svg" height="20px">
     &nbsp;&nbsp;&nbsp;<img src="./icons/ProgrammingLanguages/java.svg" height="20px">
+    &nbsp;&nbsp;&nbsp;<img src="./icons/MobileAppDevelopment/dart.svg" height="20px">
 </div>
 
 #### Frontend Development
@@ -43,21 +44,17 @@
 
 <div align="left">
     &nbsp;&nbsp;&nbsp;<img src="./icons/BackendDevelopment/nodejs.svg" height="20px">
-    &nbsp;&nbsp;&nbsp;<img src="./icons/BackendDevelopment/spring.svg" height="20px">
 </div>
 
 #### Mobile App Development
 
 <div align="left">
-    &nbsp;&nbsp;&nbsp;<img src="./icons/MobileAppDevelopment/dart.svg" height="20px">
     &nbsp;&nbsp;&nbsp;<img src="./icons/MobileAppDevelopment/flutter.svg" height="20px">
 </div>
 
 #### Database and BaaS
 
 <div align="left">
-    &nbsp;&nbsp;&nbsp;<img src="./icons/Database/mongodb.svg" height="20px">
-    &nbsp;&nbsp;&nbsp;<img src="./icons/Database/mysql.svg" height="20px">
     &nbsp;&nbsp;&nbsp;<img src="./icons/Database/firebase.svg" height="20px">
 </div>
 
@@ -78,7 +75,7 @@
 <br>
 
 ----
-### My social medias
+### My social media
 
 <!--  -->
 <br>
