@@ -1,19 +1,28 @@
 # Welcome to my profile
 
 ----
-### Currently
-> My description
+<div align="center">Se as coisas são inatingíveis... ora!
+<br>
+Não é motivo para não querê-las...
+<br>
+Que tristes os caminhos, se não fora
+<br>
+A presença distante das estrelas!
+<br><br>
+<small>Mário Quintana</small>
+</div>
 
 ----
 ### Currently
 
-- 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning Angular
+- 🔭 I’m currently working on some personal projects and giving private lessons in <i> <b>discrete mathematics</b> </i>, <i><b>logic</b></i> and <i><b>computability and complexity theory</b></i>
+- 🌱 I’m currently learning <i><b> Angular </b></i> and <i><b> Spring Boot </b></i>
 - 📫 How to reach me: <a> lucio.fmmelo88@gmail.com </a>
-- ⚡ Fun fact: i 
+- ⚡ Fun fact: I hold a degree in Psychology, have experience in public administration, and have previously worked as a social educator
+- 🤔 I would love some help delving into the deep and fascinating questions about life!
 
 ----
-### My Skills
+### My Technical Skills
 
 #### Programming Languages
 
@@ -40,6 +49,7 @@
 
 <div align="left">
     &nbsp;&nbsp;&nbsp;<img src="./icons/BackendDevelopment/nodejs.svg" height="20px">
+    &nbsp;&nbsp;&nbsp;<img src="./icons/BackendDevelopment/spring.svg" height="20px">
 </div>
 
 #### Mobile App Development
@@ -52,6 +62,15 @@
 
 <div align="left">
     &nbsp;&nbsp;&nbsp;<img src="./icons/Database/firebase.svg" height="20px">
+</div>
+
+----
+### Soft Skills
+
+<div align="center">
+    
+![image](https://github.com/luciofmmelo/luciofmmelo/assets/137941451/c265d936-257d-44ba-ba52-f6b6dda57b19)
+
 </div>
 
 ----
