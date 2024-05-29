@@ -65,7 +65,7 @@ A presença distante das estrelas!
 </div>
 
 ----
-### Soft Skills
+### My Soft Skills
 
 <div align="center">
     
