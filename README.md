@@ -8,8 +8,8 @@ Não é motivo para não querê-las...
 Que tristes os caminhos, se não fora
 <br>
 A presença distante das estrelas!
-<br><br>
-<small> <i>Mário Quintana</i> </small>
+<br>
+<sub><i> Mário Quintana </i></sub>
 </div>
 
 ----
@@ -69,7 +69,8 @@ A presença distante das estrelas!
 
 <div align="center">
     
-![image](https://github.com/luciofmmelo/luciofmmelo/assets/137941451/c265d936-257d-44ba-ba52-f6b6dda57b19)
+![carbon (2)](https://github.com/luciofmmelo/luciofmmelo/assets/137941451/bc84a70d-df78-4eb1-b19e-1826c1ec38be)
+
 
 </div>
 
