@@ -9,7 +9,7 @@ Que tristes os caminhos, se não fora
 <br>
 A presença distante das estrelas!
 <br><br>
-<small>Mário Quintana</small>
+<small> <i>Mário Quintana</i> </small>
 </div>
 
 ----
