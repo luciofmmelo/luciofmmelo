@@ -15,7 +15,7 @@ A presença distante das estrelas!
 ----
 ### Currently
 
-- 🔭 I’m currently working on some personal projects and giving private lessons in <i> <b>discrete mathematics</b> </i>, <i><b>logic</b></i> and <i><b>computability and complexity theory</b></i>
+- 🔭 I’m currently working on some personal projects and giving private lessons in <i> <b>discrete mathematics</b> </i>, <i><b>logic</b></i>, <i><b>algorithms</b></i> and <i><b>computability and complexity theories</b></i>
 - 🌱 I’m currently learning <i><b> Angular </b></i> and <i><b> Spring Boot </b></i>
 - 📫 How to reach me: <a> lucio.fmmelo88@gmail.com </a>
 - ⚡ Fun fact: I hold a degree in Psychology, have experience in public administration, and have previously worked as a social educator
